@@ -10,4 +10,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=compact&hide=html&theme=blue-green" alt="narenkhatwani" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=thewires2&show_icons=true&theme=blue-green" alt="narenkhatwani" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=blue-green" alt="narenkhatwani" />
