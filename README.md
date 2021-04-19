@@ -1,6 +1,8 @@
 
 
 ### Hi there 👋 I am Naren Khatwani
+I like to work in a challenging professional environment and thereby utilize my talent, skills, and experience in the field of Computer Science
+
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/KhatwaniNaren)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/narenkhatwani)
