@@ -12,9 +12,9 @@ I like to work in a challenging professional environment and thereby utilize my 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=compact&hide=html&theme=blue-green" alt="narenkhatwani" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=blue-green" alt="narenkhatwani" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=blue-green" alt="narenkhatwani" /><br/>
 
-<br/>
+
 ### Languages Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
