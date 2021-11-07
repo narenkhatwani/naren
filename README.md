@@ -10,11 +10,6 @@ I like to work in a challenging professional environment and thereby utilize my 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:narenkhatwani.work@gmail.com)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=compact&hide=html&theme=blue-green" alt="narenkhatwani" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=blue-green" alt="narenkhatwani" /><br/>
-
-
 ### Languages Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,3 +19,9 @@ I like to work in a challenging professional environment and thereby utilize my 
 
 ### Technolgies used
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=compact&hide=html&theme=blue-green" alt="narenkhatwani" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=blue-green" alt="narenkhatwani" /><br/>
+
+
