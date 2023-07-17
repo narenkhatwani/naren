@@ -30,4 +30,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=compact&hide=html&theme=blue-green" alt="narenkhatwani" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=donut)](https://github.com/narenkhatwani)
+<p> ![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenkhatwani&theme=dark&show_icons=true) </p>
+
+
+<p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=donut)](https://github.com/narenkhatwani) </p>
