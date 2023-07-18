@@ -26,7 +26,7 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=compact)](https://github.com/narenkhatwani)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=compact)]
 
 
 ![Naren's Profile](https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=radical)
