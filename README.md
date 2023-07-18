@@ -26,4 +26,5 @@
 </p>
 
 
-<p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=donut)](https://github.com/narenkhatwani) </p>
+[<p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&layout=donut)](https://github.com/narenkhatwani) </p>
+](https://github.com/narenkhatwani)https://github.com/narenkhatwani
