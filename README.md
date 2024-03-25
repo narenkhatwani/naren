@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/khatwaninaren" target="blank"><img src="https://img.shields.io/twitter/follow/khatwaninaren?logo=twitter&style=for-the-badge" alt="khatwaninaren" /></a> </p>
 
-- 🔭 I’m currently working on [Arkouda - Test Cases](https://github.com/Bears-R-Us/arkouda-njit/issues)
+- 🔭 I’m currently working on Concept Goodness for Ontologies
 
-- 🌱 I’m currently learning **more about algorithms**
+- 🌱 I’m currently learning **more about Mobile Sensing Technologies for measuring attention, engagement and focus in a PjBL setting**
 
-- 👯 I’m looking to collaborate on [Arkouda Tutorial](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit)
+- 👯 I’m looking to collaborate on [Internation Student 101 Blogs](https://narenkhatwani-blogs.notion.site/FAQs-regarding-Graduate-and-Undergraduate-studies-72e6832cab4a48f9b9b3bbb70487c58a?pvs=4)
 
-- 📝 I regularly write articles on [https://www.getrevue.co/profile/thatdesiguy](https://www.getrevue.co/profile/thatdesiguy)
+- 📝 I regularly write articles on [Medium]([https://www.getrevue.co/profile/thatdesiguy](https://medium.com/@naren_khatwani007))
 
 - 📫 How to reach me **narenkhatwani.work@gmail.com**
 
