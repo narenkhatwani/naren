@@ -30,3 +30,5 @@
 
 
 ![Naren's Profile](https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=radical)
+
+![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenkhatwani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
