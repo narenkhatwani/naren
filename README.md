@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naren Khatwani</h1>
-<h3 align="center">Data Science PhD Student and Teaching Assistant @ NJIT</h3>
+<h3 align="center">Data Science PhD Student and GitHub Campus Expert @ NJIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narenkhatwani&label=Profile%20views&color=0e75b6&style=flat" alt="narenkhatwani" /> </p>
 
