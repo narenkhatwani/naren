@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/khatwaninaren" target="blank"><img src="https://img.shields.io/twitter/follow/khatwaninaren?logo=twitter&style=for-the-badge" alt="khatwaninaren" /></a> </p>
 
-- 🔭 I’m currently working on Concept Goodness for Ontologies
+- 🔭 I’m currently working on Concept Matching for Ontologies
 
 - 🌱 I’m currently learning **more about Mobile Sensing Technologies for measuring attention, engagement and focus in a PjBL setting**
 
