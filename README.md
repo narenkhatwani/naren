@@ -32,6 +32,11 @@
 ![Naren's Profile](https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=radical)
 
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&hide=Jupyter%20Notebook&layout=pie" alt="Top Langs" style="width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=narenkhatwani&show_icons=true&theme=radical" alt="Naren's Profile" style="width: 45%;">
+</div>
+
 My Favorite Question
 
 “Where do you see yourself in your career down the line?”
