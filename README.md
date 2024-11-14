@@ -34,4 +34,4 @@ My Favorite Question
 
 “Where do you see yourself in your career down the line?”
 
-Honestly, I don’t have know. I do know I love research, so I picture myself deep in somewhere, researching a topic that I am passionate about. But truth be told, I don’t even know what I’m having for dinner tomorrow night (unless my calendar says its a VadaPav from Ambar Vadapav in Kalyan, Maharashtra, India), so predicting the next 5-6 years? That’s a plot twist I’m not ready for!
+Honestly, I don’t know. I do know I love research, so I picture myself deep in somewhere, researching a topic that I am passionate about. But truth be told, I don’t even know what I’m having for dinner tomorrow night (unless my calendar says its a VadaPav from Ambar Vadapav in Kalyan, Maharashtra, India), so predicting the next 5-6 years? That’s a plot twist I’m not ready for!
