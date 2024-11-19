@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **narenkhatwani.work@gmail.com**
 
-- ⚡ Fun fact **I love to capture moments on weekends**
+- ⚡ Fun fact **photography** and **credit card hacks** (gotta stack those miles 🌝)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
