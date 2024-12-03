@@ -29,6 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkhatwani&hide=Jupyter%20Notebook&layout=pie" alt="Top Langs" style="width: 30%;">
 
 ![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenkhatwani&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
+
 My Favorite Question
 
 “Where do you see yourself in your career down the line?”
