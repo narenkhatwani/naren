@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **more about how acronyms can convey information better in terms of medical terminologies**
 
+- I also have a weekly newsletter [Newsletter](https://buttondown.com/narenkhatwani)
+
 - 👯 I’m looking to collaborate on [International Student 101 Blogs](https://narenkhatwani-blogs.notion.site/FAQs-regarding-Graduate-and-Undergraduate-studies-72e6832cab4a48f9b9b3bbb70487c58a?pvs=4)
 
 - 📝 I regularly write articles on [Medium]([https://www.getrevue.co/profile/thatdesiguy](https://medium.com/@naren_khatwani007)) (I promise I am trying to get back to it)
