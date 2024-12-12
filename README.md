@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **more about how acronyms can convey information better in terms of medical terminologies**
 
-- I also have a weekly newsletter [Newsletter](https://buttondown.com/narenkhatwani)
+- I also have a weekly newsletter [Newsletter](https://buttondown.com/narenkhatwani) Naren's Neural Narative
 
 - 👯 I’m looking to collaborate on [International Student 101 Blogs](https://narenkhatwani-blogs.notion.site/FAQs-regarding-Graduate-and-Undergraduate-studies-72e6832cab4a48f9b9b3bbb70487c58a?pvs=4)
 
